@@ -1,8 +1,8 @@
 # DailyProgramming
 Repository for daily algorithm quiz from '매일프로그래밍'
 
-When I solve algorithm Quiz to study, I wanted store it and check all of result for one execution.
-So I add a class daily and check in main class.
+When I solve algorithm Quiz to study, I wanted store it and check all of result for one execution.<br/>
+So I add a class daily and check in main class.<br/>
 
 > In main class, input date like "yyyymmdd".
 <pre><code>// input date for get class name
