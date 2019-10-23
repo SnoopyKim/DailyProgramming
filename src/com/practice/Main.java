@@ -32,7 +32,6 @@ public class Main {
             } catch (IllegalAccessException | InstantiationException | InvocationTargetException e) {
                 // if constructor's parameters have wrong value
                 System.out.println("해당 날짜 생성자에 인수 값이 잘못되었습니다.");
-                e.printStackTrace();
             }
         }
     }
