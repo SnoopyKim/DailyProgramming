@@ -31,7 +31,7 @@ public class Q20191013 {
                 System.out.println("잘못된 입력 양식입니다. 원하는 결과가 안 나올 수도 있습니다. 입력 예시를 참고해주세요.");
             }
         }
-        
+
         return arr;
     }
 
